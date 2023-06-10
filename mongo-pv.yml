@@ -8,4 +8,4 @@ spec:
   capacity:
     storage: 1Gi
   hostPath:
-    path: /home/jojo/projects/food-delivery/mongo/data
+    path: /persistent-volume/mongo
